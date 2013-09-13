@@ -1,0 +1,21 @@
+[
+{
+  "modid": "ShenMCSynth",
+  "name": "Synthesis",
+  "description": "Synthesises resources from other resources!",
+  "version": "pre 1a",
+  "credits": "Created by ShenMC",
+  "logoFile": "",
+  "mcversion": "",
+  "url": "",
+  "updateUrl": "",
+  "authors": [
+  	"ShenMC"
+  ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+  	"mod_MinecraftForge"
+  ]
+}
+]
