@@ -20,10 +20,5 @@
 			<type>2</type>
 			<location>C:/Users/Shenlung/My Development/source/Synthesis/common</location>
 		</link>
-		<link>
-			<name>resources</name>
-			<type>2</type>
-			<location>C:/Users/Shenlung/My Development/source/Synthesis/resources</location>
-		</link>
 	</linkedResources>
 </projectDescription>
